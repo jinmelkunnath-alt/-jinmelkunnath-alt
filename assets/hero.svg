@@ -1,0 +1,111 @@
+<svg width="1000" height="520" viewBox="0 0 1000 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>DEV IMMANUEL MELBIN — Software, AI and Automation</title>
+  <desc>An animated developer profile hero showing Immanuel Melbin's focus on software, AI, automation and real-world digital products.</desc>
+  <defs>
+    <linearGradient id="panel" x1="40" y1="20" x2="960" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0D1117"/>
+      <stop offset="0.55" stop-color="#070B10"/>
+      <stop offset="1" stop-color="#05070A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="55" y1="0" x2="945" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E" stop-opacity="0"/>
+      <stop offset="0.24" stop-color="#22C55E"/>
+      <stop offset="0.68" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="orb" cx="0" cy="0" r="1" gradientTransform="translate(786 231) rotate(90) scale(177)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0.18"/>
+      <stop offset="0.48" stop-color="#22C55E" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#05070A" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="bigGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="22"/>
+    </filter>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#FFFFFF" stroke-opacity="0.025" stroke-width="1"/>
+    </pattern>
+    <clipPath id="panelClip"><rect x="2" y="2" width="996" height="516" rx="32"/></clipPath>
+  </defs>
+  <style>
+    .dash { stroke-dasharray: 8 12; animation: flow 7s linear infinite; }
+    .pulse { transform-box: fill-box; transform-origin: center; animation: pulse 2.8s ease-in-out infinite; }
+    .pulse-b { animation-delay: -0.9s; }
+    .pulse-c { animation-delay: -1.8s; }
+    .scanner { animation: scan 8s ease-in-out infinite; }
+    .statement { opacity: 0; animation-duration: 20s; animation-iteration-count: infinite; animation-timing-function: ease-in-out; }
+    .s1 { opacity: 1; animation-name: s1; }
+    .s2 { animation-name: s2; }
+    .s3 { animation-name: s3; }
+    .s4 { animation-name: s4; }
+    .s5 { animation-name: s5; }
+    @keyframes flow { to { stroke-dashoffset: -160; } }
+    @keyframes pulse { 0%,100% { transform: scale(.82); opacity: .62; } 50% { transform: scale(1.18); opacity: 1; } }
+    @keyframes scan { 0%,100% { transform: translateX(-210px); opacity: 0; } 16% { opacity: .65; } 50% { transform: translateX(890px); opacity: .12; } 51% { opacity: 0; } }
+    @keyframes s1 { 0%,16% { opacity:1 } 20%,96% { opacity:0 } 100% { opacity:1 } }
+    @keyframes s2 { 0%,16%,40%,100% { opacity:0 } 20%,36% { opacity:1 } }
+    @keyframes s3 { 0%,36%,60%,100% { opacity:0 } 40%,56% { opacity:1 } }
+    @keyframes s4 { 0%,56%,80%,100% { opacity:0 } 60%,76% { opacity:1 } }
+    @keyframes s5 { 0%,76%,100% { opacity:0 } 80%,96% { opacity:1 } }
+    @media (prefers-reduced-motion: reduce) {
+      .dash,.pulse,.scanner,.statement { animation: none !important; }
+      .statement { opacity: 0; }
+      .s1 { opacity: 1; }
+    }
+  </style>
+
+  <rect x="2" y="2" width="996" height="516" rx="32" fill="url(#panel)" stroke="#30363D" stroke-width="2"/>
+  <g clip-path="url(#panelClip)">
+    <rect x="2" y="2" width="996" height="516" fill="url(#grid)"/>
+    <circle cx="786" cy="231" r="210" fill="url(#orb)"/>
+    <circle cx="850" cy="128" r="94" fill="#6366F1" fill-opacity="0.05" filter="url(#bigGlow)"/>
+    <rect class="scanner" x="0" y="62" width="210" height="320" fill="url(#line)" opacity="0.2"/>
+  </g>
+
+  <circle cx="56" cy="48" r="5" fill="#22C55E" filter="url(#softGlow)"/>
+  <text x="72" y="54" fill="#8B949E" font-family="monospace" font-size="16" font-weight="600" letter-spacing="2">IMMANUEL.DEV / BUILD MODE</text>
+  <rect x="806" y="30" width="138" height="34" rx="17" fill="#0F2418" stroke="#238636"/>
+  <circle class="pulse" cx="826" cy="47" r="5" fill="#22C55E"/>
+  <text x="840" y="52" fill="#A7F3D0" font-family="monospace" font-size="13" font-weight="700" letter-spacing="1.5">BUILDING</text>
+  <path d="M56 82H944" stroke="url(#line)" stroke-width="2"/>
+
+  <text x="56" y="139" fill="#22C55E" font-family="monospace" font-size="18" font-weight="700" letter-spacing="4">DEV</text>
+  <text x="52" y="211" fill="#F0F6FC" font-family="sans-serif" font-size="65" font-weight="800">IMMANUEL</text>
+  <text x="52" y="277" fill="#F0F6FC" font-family="sans-serif" font-size="65" font-weight="800">MELBIN</text>
+  <text x="56" y="319" fill="#38BDF8" font-family="monospace" font-size="19" font-weight="700" letter-spacing="2.4">SOFTWARE  •  AI  •  AUTOMATION</text>
+  <text x="56" y="356" fill="#B7C0CC" font-family="sans-serif" font-size="20" font-weight="500">Building systems and digital products for real-world workflows.</text>
+
+  <g opacity="0.94">
+    <circle cx="803" cy="218" r="72" fill="#090E14" stroke="#38BDF8" stroke-opacity="0.32"/>
+    <circle cx="803" cy="218" r="49" fill="#0C131A" stroke="#22C55E" stroke-opacity="0.28" stroke-dasharray="4 7"/>
+    <path class="dash" d="M803 146C871 146 905 184 905 218C905 272 861 309 803 309" stroke="#38BDF8" stroke-opacity="0.55" stroke-width="2"/>
+    <path class="dash" d="M803 290C735 290 701 252 701 218C701 164 745 127 803 127" stroke="#22C55E" stroke-opacity="0.48" stroke-width="2"/>
+    <circle cx="803" cy="218" r="25" fill="#101A22" stroke="#58A6FF"/>
+    <text x="803" y="224" text-anchor="middle" fill="#E6EDF3" font-family="monospace" font-size="15" font-weight="800">BUILD</text>
+    <circle class="pulse pulse-b" cx="803" cy="127" r="6" fill="#38BDF8" filter="url(#softGlow)"/>
+    <circle class="pulse pulse-c" cx="905" cy="218" r="6" fill="#6366F1" filter="url(#softGlow)"/>
+    <circle class="pulse" cx="803" cy="309" r="6" fill="#22C55E" filter="url(#softGlow)"/>
+    <circle class="pulse pulse-b" cx="701" cy="218" r="6" fill="#38BDF8" filter="url(#softGlow)"/>
+    <text x="803" y="109" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="11" font-weight="700">AI</text>
+    <text x="928" y="222" fill="#8B949E" font-family="monospace" font-size="11" font-weight="700">API</text>
+    <text x="803" y="336" text-anchor="middle" fill="#8B949E" font-family="monospace" font-size="11" font-weight="700">DATA</text>
+    <text x="670" y="222" text-anchor="end" fill="#8B949E" font-family="monospace" font-size="11" font-weight="700">UI</text>
+  </g>
+
+  <rect x="56" y="393" width="888" height="72" rx="16" fill="#0A1016" stroke="#212A35"/>
+  <rect x="56" y="393" width="5" height="72" rx="2.5" fill="url(#line)"/>
+  <text x="82" y="436" fill="#22C55E" font-family="monospace" font-size="23" font-weight="800">›</text>
+  <g fill="#DDE6F0" font-family="monospace" font-size="22" font-weight="600">
+    <text class="statement s1" x="110" y="436" opacity="1">Building software for real workflows.</text>
+    <text class="statement s2" x="110" y="436" opacity="0">Engineering intelligent automation.</text>
+    <text class="statement s3" x="110" y="436" opacity="0">Exploring AI-powered product systems.</text>
+    <text class="statement s4" x="110" y="436" opacity="0">Currently building KALVI CHAT.</text>
+    <text class="statement s5" x="110" y="436" opacity="0">Turning ideas into working products.</text>
+  </g>
+  <text x="918" y="437" text-anchor="end" fill="#586574" font-family="monospace" font-size="12" font-weight="700" letter-spacing="1.5">01 / PRODUCT ENGINEERING</text>
+  <path d="M56 489H944" stroke="#21262D"/>
+  <text x="56" y="505" fill="#586574" font-family="monospace" font-size="11" font-weight="600" letter-spacing="1.4">THINK → DESIGN → BUILD → TEST → SHIP → IMPROVE</text>
+</svg>

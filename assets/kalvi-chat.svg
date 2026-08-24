@@ -1,0 +1,63 @@
+<svg width="900" height="430" viewBox="0 0 900 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Kalvi Chat — currently building</title>
+  <desc>A premium active-build status panel for Kalvi Chat, a communication product currently in development. No unverified features are listed.</desc>
+  <defs>
+    <linearGradient id="bg" x1="22" y1="18" x2="878" y2="412" gradientUnits="userSpaceOnUse"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#06090D"/></linearGradient>
+    <linearGradient id="accent" x1="62" y1="0" x2="820" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#22C55E"/><stop offset="0.55" stop-color="#38BDF8"/><stop offset="1" stop-color="#6366F1"/></linearGradient>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientTransform="translate(739 203) rotate(90) scale(178)" gradientUnits="userSpaceOnUse"><stop stop-color="#38BDF8" stop-opacity="0.13"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#FFFFFF" stroke-opacity="0.02"/></pattern>
+  </defs>
+  <style>
+    .live { transform-box: fill-box; transform-origin: center; animation: live 2.4s ease-out infinite; }
+    .signal { transform-box: fill-box; transform-origin: center; animation: signal 4.8s ease-in-out infinite; }
+    .signal-b { animation-delay: -2.4s; }
+    .flow { stroke-dasharray: 7 10; animation: flow 6s linear infinite; }
+    @keyframes live { 0% { transform:scale(.75);opacity:1 } 75%,100% { transform:scale(2.4);opacity:0 } }
+    @keyframes signal { 0%,100% { transform:translateY(0);opacity:.58 } 50% { transform:translateY(-7px);opacity:1 } }
+    @keyframes flow { to { stroke-dashoffset:-136 } }
+    @media (prefers-reduced-motion:reduce) { .live,.signal,.flow { animation:none!important; } }
+  </style>
+  <rect x="1" y="1" width="898" height="428" rx="28" fill="url(#bg)" stroke="#30363D" stroke-width="2"/>
+  <rect x="1" y="1" width="898" height="428" rx="28" fill="url(#grid)"/>
+  <circle cx="739" cy="203" r="190" fill="url(#halo)"/>
+  <rect x="44" y="34" width="250" height="38" rx="19" fill="#0F2418" stroke="#238636"/>
+  <circle cx="65" cy="53" r="5" fill="#22C55E" filter="url(#glow)"/>
+  <circle class="live" cx="65" cy="53" r="5" fill="none" stroke="#22C55E"/>
+  <text x="82" y="59" fill="#A7F3D0" font-family="monospace" font-size="14" font-weight="800" letter-spacing="1.8">CURRENTLY BUILDING</text>
+  <text x="44" y="135" fill="#F0F6FC" font-family="sans-serif" font-size="58" font-weight="800">KALVI CHAT</text>
+  <text x="47" y="177" fill="#38BDF8" font-family="monospace" font-size="17" font-weight="700" letter-spacing="2.2">COMMUNICATION / PRODUCT DEVELOPMENT</text>
+  <text x="45" y="221" fill="#C9D1D9" font-family="sans-serif" font-size="23" font-weight="600">A communication product in active build.</text>
+  <text x="45" y="254" fill="#8B949E" font-family="sans-serif" font-size="17">Only verified implementation details are listed.</text>
+
+  <g transform="translate(45 295)">
+    <text y="13" fill="#586574" font-family="monospace" font-size="12" font-weight="800" letter-spacing="1.7">BUILD LOOP</text>
+    <path class="flow" d="M0 51H475" stroke="url(#accent)" stroke-width="2"/>
+    <g fill="#0D1117" stroke-width="2">
+      <circle cx="12" cy="51" r="9" stroke="#22C55E"/><circle cx="164" cy="51" r="9" stroke="#38BDF8"/><circle cx="316" cy="51" r="9" stroke="#38BDF8"/><circle cx="468" cy="51" r="9" stroke="#6366F1"/>
+    </g>
+    <g fill="#AAB4C0" font-family="monospace" font-size="13" font-weight="700">
+      <text x="12" y="84" text-anchor="middle">DEFINE</text><text x="164" y="84" text-anchor="middle">ENGINEER</text><text x="316" y="84" text-anchor="middle">VALIDATE</text><text x="468" y="84" text-anchor="middle">SHIP</text>
+    </g>
+  </g>
+
+  <g transform="translate(628 98)">
+    <circle cx="105" cy="105" r="105" fill="#09131A" stroke="#1F3746"/>
+    <circle cx="105" cy="105" r="76" fill="#0A1118" stroke="#38BDF8" stroke-opacity="0.28" stroke-dasharray="4 8"/>
+    <g class="signal">
+      <rect x="50" y="57" width="100" height="54" rx="18" fill="#101E28" stroke="#38BDF8"/>
+      <path d="M69 111L61 129L86 111" fill="#101E28" stroke="#38BDF8" stroke-linejoin="round"/>
+      <circle cx="80" cy="84" r="5" fill="#38BDF8"/><circle cx="101" cy="84" r="5" fill="#22C55E"/><circle cx="122" cy="84" r="5" fill="#6366F1"/>
+    </g>
+    <g class="signal signal-b">
+      <rect x="76" y="127" width="84" height="43" rx="15" fill="#112018" stroke="#22C55E"/>
+      <path d="M141 170L151 184L128 170" fill="#112018" stroke="#22C55E" stroke-linejoin="round"/>
+      <path d="M95 149H141" stroke="#86EFAC" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+    </g>
+  </g>
+
+  <rect x="598" y="333" width="253" height="51" rx="14" fill="#0A1016" stroke="#212A35"/>
+  <text x="619" y="354" fill="#586574" font-family="monospace" font-size="10" font-weight="800" letter-spacing="1.4">PUBLIC SOURCE</text>
+  <text x="619" y="373" fill="#C9D1D9" font-family="sans-serif" font-size="15" font-weight="700">No public repository listed</text>
+  <rect x="44" y="406" width="807" height="3" rx="1.5" fill="url(#accent)" opacity="0.8"/>
+</svg>
