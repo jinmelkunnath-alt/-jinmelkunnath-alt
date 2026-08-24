@@ -1,121 +1,60 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:05070A,45:0D1117,75:161B22,100:238636&text=IMMANUEL%20MELBIN&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=SOFTWARE%20%7C%20AI%20%7C%20AUTOMATION&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:05070A,45:0D1117,75:161B22,100:238636&text=IMMANUEL%20MELBIN&fontColor=FFFFFF&fontSize=50&fontAlignY=38&desc=SOFTWARE%20%7C%20AI%20%7C%20AUTOMATION&descAlignY=59&descSize=18&animation=fadeIn" width="100%"/>
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+software+that+solves+real+problems.;Currently+building+Kalvi+Chat+%F0%9F%92%AC;Exploring+AI%2C+automation+%26+intelligent+systems.;Turning+ideas+into+real-world+products.;Code+%E2%86%92+Build+%E2%86%92+Automate+%E2%86%92+Repeat." />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=850&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Developer.;AI+%26+Automation+Enthusiast.;Building+real-world+digital+products.;Currently+building+Kalvi+Chat+%F0%9F%92%AC;Turning+ideas+into+working+software.;Think.+Build.+Ship.+Improve." alt="Typing animation"/>
 <br><br>
 <a href="https://github.com/jinmelkunnath-alt">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/>
 </a>
 <br><br>
-<a href="#about-me">ABOUT</a>
-&nbsp; • &nbsp;
-<a href="#what-i-build">WHAT I BUILD</a>
-&nbsp; • &nbsp;
-<a href="#tech-stack">STACK</a>
-&nbsp; • &nbsp;
-<a href="#featured-projects">PROJECTS</a>
-&nbsp; • &nbsp;
-<a href="#currently-building">BUILDING</a>
-&nbsp; • &nbsp;
-<a href="#github-activity">ACTIVITY</a>
+`SOFTWARE` &nbsp; `AI` &nbsp; `AUTOMATION` &nbsp; `FULL-STACK`
 </div>
 ---
-# 👋 About Me
-I'm **Immanuel Melbin**, a developer focused on building **software, AI-powered applications, automation systems and digital products**.
-I enjoy taking an idea from:
+# 👋 Hello, I'm Immanuel
+I'm a developer interested in building **software, AI-powered applications, automation systems and real-world digital products.**
+I like turning an idea into something that can actually be used.
 ```text
 IDEA
-  ↓
+  │
+  ▼
 ARCHITECTURE
-  ↓
+  │
+  ▼
 DESIGN
-  ↓
-DEVELOPMENT
-  ↓
-TESTING
-  ↓
-DEPLOYMENT
-  ↓
-IMPROVEMENT
+  │
+  ▼
+CODE
+  │
+  ▼
+TEST
+  │
+  ▼
+SHIP
+  │
+  ▼
+IMPROVE
 
-and turning it into something real, useful and scalable.
-
-What I care about
-
-* 💻 Building practical software
-* 🤖 Exploring AI-powered systems
-* ⚡ Creating intelligent automation
-* 🌐 Designing modern web applications
-* 🔥 Building real-time applications
-* 🧩 Connecting APIs and services
-* 🚀 Turning ideas into products
-* 📚 Continuously improving as a developer
-
-<br>
-
-I don’t just want to write code. I want to build things people can use.
+I don’t just want to write code. I want to build useful things.
 
 ⸻
 
 ⚡ What I Build
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
 
-🧠
+🧠 AI	💻 SOFTWARE	⚙️ AUTOMATION	🌐 WEB
+AI Features	Full-Stack Apps	API Workflows	Modern UI
+AI Integrations	Digital Products	Intelligent Systems	Real-Time Apps
+AI Experiments	Practical Tools	Process Automation	Responsive UX
 
-AI
-
-AI-powered features
-Intelligent systems
-AI integrations
-
-</td>
-<td align="center" width="25%">
-
-💻
-
-SOFTWARE
-
-Full-stack applications
-Digital products
-Real-world systems
-
-</td>
-<td align="center" width="25%">
-
-⚙️
-
-AUTOMATION
-
-APIs
-Workflows
-Process automation
-
-</td>
-<td align="center" width="25%">
-
-🌐
-
-WEB
-
-Modern interfaces
-Real-time apps
-Responsive experiences
-
-</td>
-</tr>
-</table>
 </div>
 
 ⸻
 
-🛠️ Tech Stack
+🛠️ Technology
 
 Languages
 
@@ -129,14 +68,13 @@ Development
 <img src="https://skillicons.dev/icons?i=react,nodejs,firebase,git,github,vscode" />
 </p>
 
-AI • APIs • Automation
+Focus
 
-<p align="center">
-<img src="https://img.shields.io/badge/AI%20SYSTEMS-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/AUTOMATION-0D1117?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/REAL--TIME-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-</p>
+<div align="center">
+
+AI · APIs · Automation · Real-Time Systems · Firebase · Web Applications
+
+</div>
 
 ⸻
 
@@ -144,79 +82,81 @@ AI • APIs • Automation
 
 <div align="center">
 
-💬 Kalvi Chat
+💬 KALVI CHAT
 
-CURRENTLY BUILDING
+<img src="https://img.shields.io/badge/%E2%97%8F%20ACTIVE-238636?style=for-the-badge&label=STATUS"/>
 
-A modern communication platform focused on creating a smooth, real-time messaging experience.
+Currently building.
 
-Focus
+A modern communication platform focused on creating a polished real-time messaging experience.
+
+Current focus
 
 Real-Time Messaging · Private Conversations · Translation · Modern UI · AI
 
 <br>
 <a href="https://github.com/jinmelkunnath-alt/Kalvichat">
-<img src="https://img.shields.io/badge/VIEW%20KALVI%20CHAT-238636?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE%20KALVI%20CHAT-238636?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ⸻
 
-🏥 Kalopsia
+🏥 KALOPSIA
 
 A digital platform designed to bring multiple essential services together into one ecosystem.
 
-Stack
+Technology
 
 HTML · CSS · JavaScript
 
 <br>
 <a href="https://github.com/jinmelkunnath-alt/Kalopsia">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ⸻
 
-💳 St. Anne’s ICSE School Payment Portal
+💳 SCHOOL PAYMENT PORTAL
 
-A school-focused digital payment platform designed to simplify fee management and payment workflows.
+A digital payment platform designed to simplify school fee management and payment workflows.
 
-Stack
+Technology
 
 HTML · CSS · JavaScript · Firebase
 
 <br>
 <a href="https://github.com/jinmelkunnath-alt/St.Annes-ICSE-School-Payment-Portal">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ⸻
 
-🗳️ School Voting System
+🗳️ SCHOOL VOTING SYSTEM
 
-A web-based voting system designed for educational environments with a simple and accessible experience.
+A web-based voting platform designed for educational environments.
 
-Stack
+Technology
 
 HTML · CSS · JavaScript
 
 <br>
 <a href="https://github.com/jinmelkunnath-alt/school-voting-system">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ⸻
 
-🤖 Telegram Rewards Ecosystem
+🤖 TELEGRAM REWARDS ECOSYSTEM
 
-A JavaScript-based project exploring Telegram automation, reward systems and digital workflows.
+A JavaScript project exploring Telegram automation, reward systems and digital workflows.
 
-Stack
+Technology
 
 JavaScript · Automation · Telegram
 
 <br>
 <a href="https://github.com/jinmelkunnath-alt/telegram-rewards-ecosystem">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE-161B22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
 
@@ -225,100 +165,70 @@ JavaScript · Automation · Telegram
 🔥 Currently Building
 
 <div align="center">
-<img src="https://img.shields.io/badge/%E2%97%8F%20ACTIVE-KALVI%20CHAT-238636?style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:0D1117,50:161B22,100:238636&text=KALVI%20CHAT&fontColor=FFFFFF&fontSize=32&animation=fadeIn" width="90%"/>
 
-💬 KALVI CHAT
-
-A modern communication platform under active development.
+💬 A communication platform under active development.
 
 </div>
 
-Current direction
+The vision
 
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  REAL-TIME MESSAGING                                │
-│          ↓                                          │
-│  USER-TO-USER COMMUNICATION                         │
-│          ↓                                          │
-│  PRIVATE CONVERSATIONS                              │
-│          ↓                                          │
-│  MESSAGE TRANSLATION                                │
-│          ↓                                          │
-│  MODERN CHAT EXPERIENCE                             │
-│          ↓                                          │
-│  AI-POWERED POSSIBILITIES                           │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   REAL-TIME MESSAGING                                      │
+│              │                                              │
+│              ▼                                              │
+│   PRIVATE COMMUNICATION                                     │
+│              │                                              │
+│              ▼                                              │
+│   MESSAGE TRANSLATION                                       │
+│              │                                              │
+│              ▼                                              │
+│   MODERN CHAT EXPERIENCE                                    │
+│              │                                              │
+│              ▼                                              │
+│   AI-POWERED COMMUNICATION                                  │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
-The goal is not simply to build another chat interface.
-
-The goal is to build a complete communication product.
-
-⸻
-
-📊 GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jinmelkunnath-alt&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinmelkunnath-alt&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="175"/>
-<img src="https://streak-stats.demolab.com?user=jinmelkunnath-alt&theme=github-dark-blue&hide_border=true" width="700"/>
-</div>
+The objective is to build a complete communication experience, not simply another chat UI.
 
 ⸻
 
-🐍 Contribution Journey
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/jinmelkunnath-alt/jinmelkunnath-alt/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
-
-⸻
-
-🧭 Development Journey
-
-<div align="center">
-2026
-│
-├── 🌐 Full-Stack Development
-│
-├── 🤖 AI & Intelligent Systems
-│
-├── ⚙️ Automation & APIs
-│
-├── 💬 Kalvi Chat
-│
-├── 🚀 Real-World Software
-│
-└── 🔮 What's next?
-</div>
-
-⸻
-
-🧩 More About Me
+🧠 Development Mindset
 
 <details>
-<summary><b>💡 What drives me?</b></summary>
+<summary><b>01 — How I approach a project</b></summary>
 <br>
 
-I enjoy taking something that exists only as an idea and turning it into a working product.
+I start with the problem.
 
-For me, development is more than writing code.
+Then I design the solution.
 
-It’s about understanding a problem, designing a solution, building it, testing it and continuously improving it.
+Then I build it.
+
+Then I break it.
+
+Then I fix it.
+
+Then I ship it.
+
+Then I improve it.
+
+Build → Break → Fix → Ship → Improve
 
 </details>
 <br>
 <details>
-<summary><b>📚 What am I learning?</b></summary>
+<summary><b>02 — What I'm currently learning</b></summary>
 <br>
 
 * Software Engineering
 * Artificial Intelligence
 * Automation
 * Full-Stack Architecture
+* APIs
 * Cloud Technologies
-* APIs & Integrations
 * Real-Time Applications
 * Modern UI/UX
 * Product Development
@@ -326,48 +236,74 @@ It’s about understanding a problem, designing a solution, building it, testing
 </details>
 <br>
 <details>
-<summary><b>🚀 What am I building next?</b></summary>
+<summary><b>03 — What I want to build</b></summary>
 <br>
 
-More software.
+Products that solve actual problems.
 
-More AI.
+Systems that are useful.
 
-More automation.
+Interfaces that people enjoy using.
 
-More experiments.
-
-More products.
+And software that is worth maintaining.
 
 </details>
 
 ⸻
 
-🎯 Developer Philosophy
+🐍 Contribution Journey
 
 <div align="center">
 
-BUILD LESS. BUILD BETTER.
+WATCH THE CODE COME ALIVE
 
 <br>
-
-Don’t just write code.
-
-Create something useful.
-
-<br>
-THINK
-  ↓
-DESIGN
-  ↓
-BUILD
-  ↓
-TEST
-  ↓
-SHIP
-  ↓
-IMPROVE
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg">
+  <img src="./github-snake.svg" alt="GitHub contribution snake animation" width="100%">
+</picture>
 </div>
+
+⸻
+
+📈 GitHub Activity
+
+<div align="center">
+
+Consistency > Perfection
+
+<br>
+
+Every contribution is another step forward.
+
+<br>
+
+BUILD ━━━ LEARN ━━━ EXPERIMENT ━━━ SHIP
+
+</div>
+
+⸻
+
+🎯 Roadmap
+
+                     IMMANUEL MELBIN
+                            │
+          ┌─────────────────┼─────────────────┐
+          │                 │                 │
+          ▼                 ▼                 ▼
+       SOFTWARE             AI            AUTOMATION
+          │                 │                 │
+          └─────────────────┼─────────────────┘
+                            │
+                            ▼
+                     REAL PRODUCTS
+                            │
+                            ▼
+                    PRODUCTION SYSTEMS
+                            │
+                            ▼
+                         SCALE
 
 ⸻
 
@@ -377,19 +313,19 @@ IMPROVE
 
 Have an idea?
 
-Let’s turn it into reality.
+Let’s build it.
 
 <br>
 <a href="https://github.com/jinmelkunnath-alt">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=jinmelkunnath-alt&style=for-the-badge&color=238636&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=jinmelkunnath-alt&style=for-the-badge&color=238636&label=PROFILE+VIEWS" alt="Profile views"/>
 
-CODE → BUILD → AUTOMATE → REPEAT
+THINK → BUILD → SHIP → IMPROVE
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:238636,50:161B22,100:05070A" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:238636,50:161B22,100:05070A" width="100%"/>
 </div>
